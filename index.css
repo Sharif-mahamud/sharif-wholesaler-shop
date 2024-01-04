@@ -75,215 +75,7 @@ background: linear-gradient(to left, #493240, #FF0099); /* W3C, IE 10+/ Edge, Fi
     margin-top: 15px;
 }
 
-        /* shop section */
-    .section{
-        /* border: 5px solid black; */
-        height: 400px;
-        display: flex;
-        margin-top: 30px;
-        
-    }
-    .section-1{
-        /* border: 3px solid purple; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-    }
-    .section-2{
-        /* border: 3px solid purple; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-    }
-    .section-3{
-        /* border: 3px solid purple; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-    }
-    .section-4{
-        /* border: 3px solid purple; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-    }
-    .section-5{
-        /* border: 3px solid purple; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-    }
-
-    .s1{
-        height: 200px;
-        margin-left: 30px;
-
-    }
-    .s2{
-        height: 200px;
-        width: 100%;
-    
-
-    }
-    .s3{
-        height: 200px;
-        margin-left: 30px;
-
-    }
-    .s4{
-        height: 200px;
-        margin-left: 30px;
-
-    }
-    .s5{
-        height: 200px;
-        margin-left: 30px;
-
-    }
-    .pa{
-       font-size: 13px; 
-       font-family: sans-serif;
-       margin-left: 5%;
-       font-weight: bold;
-    }
-    .pa1{
-        font-size: 13px; 
-        font-family: sans-serif;
-        margin-left: 5%;
-        font-weight: bold;
-     }
-     .pa2{
-        font-size: 13px; 
-        font-family: sans-serif;
-        margin-left: 5%;
-        font-weight: bold;
-     }
-     .pa3{
-        font-size: 13px; 
-        font-family: sans-serif;
-        margin-left: 5%;
-        font-weight: bold;
-     }
-     .pa4{
-        font-size: 13px; 
-        font-family: sans-serif;
-        margin-left: 5%;
-        font-weight: bold;
-     }
-
-     .button{
-        border: 3px;
-        border-radius: 5px;
-        background-color: #FF0099;
-     }
-/* 
-     #icon{
-        font-size: 30px;
-        font-weight: bold;
-        background-color: #ff0099a5;
-        border: 5px;
-        border-radius: 5px;
-        margin-top: 80px;
-     } */
-
-     .head{
-        font-size: 25px;
-        font-weight: bold;
-        font-family: sans-serif;
-    
-     }
-     
-     .po{
-        font-size: 20px;
-        align-items: center;
-     }
-
-     .main{
-        /* border: 5px solid yellow; */
-        height: 600px;
-        margin-top: 50px;
-        display: flex;
-     }
-     
-     .main-1{
-        /* border: 3px solid blue; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-     }
-
-     .main-2{
-        /* border: 3px solid blue; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-     }
-     .main-3{
-        /* border: 3px solid blue; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-     }
-
-     .main-4{
-        /* border: 3px solid blue; */
-        height: 300px;
-        width: 20%;
-        margin-top: 30px;
-        margin-left: 20px;
-     }
-     
-     .main-5{
-        /* border: 3px solid blue; */
-        height: 300px;
-        width: 20%;
-        margin-top: 40px;
-        
-     }
-
-     .images{
-        height: 200px;
-        
-        
-     }
-     .images-1{
-        height: 200px;
-        
-           
-        
-     } 
-     .images-2{
-        height: 200px;
-    
-           
-        
-     } 
-     .images-3{
-        height: 200px;
-        
-           
-        
-     } 
-     .images-4{
-        height: 200px;
-        
-     } 
-
-     .title{
-        margin-left: 30%;
-        margin-top: 30px;
-     }
-     .pr{
-        text-align: center;
-     }
+ 
 
      /* features product */
      .div{
@@ -360,7 +152,16 @@ background: linear-gradient(to left, #493240, #FF0099); /* W3C, IE 10+/ Edge, Fi
       box-shadow: #FF0099 0px 5px 15px;
       margin-top: 15%;
      }
-      
+
+     /* shop section */
+     #shop{
+      margin-top: 10%;
+     }
+
+     /* features */
+      #features{
+         margin-top: 10%;
+      }
      
     
       
